@@ -6,4 +6,6 @@ Pynux is a Linux clone made in Python, Pynux is designed to work without any dep
 - Cross-plattform - Pynux is Designed to work on Most Systems that support Python 3.10
 - No Need to install any Package - Pynux will work without any dependency, It just uses the default pre-included Packages
 - BASH-Styled Terminal - PASH (Pynux Again SHell) is a BASH-Like Terminal that is included with Pynux, With pash you dont need to search alot of guides to install BASH in Pynux (cause' its not supported)
-- 
+## Notes
+- The GUI is likely to never be added officially to a release of Pynux
+- You can find guides to create a distribution in the Repository wiki
